@@ -6,7 +6,7 @@ subtitle: Hi there. Welcome to my web blog!
 
 My name is Kim, Jae Hyeong. you can call me JHK. And,I have the following qualities:
 
-- I'm a person having a profession as a web developer since 2020 but wishing moving forward a professional cloud/security system architect. 
+- I have been working as a web developer since 2020, but aspiring to transition into a professional career as a cloud/security system architect. 
 - I'm extremely loyal to my family.
 - specialized in CS and Theology in collage. Surprised?? 
 - I'm not a Christian cuz I think my life does not follow Jesus but I love 
